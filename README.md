@@ -1,4 +1,4 @@
- #🐱 Cat Breed Recognition using YOLOv8 and MobileNetV2
+# 🐱 Cat Breed Recognition using YOLOv8 and MobileNetV2
 
 This project builds an **AI-based cat breed recognition system** that can automatically detect and classify different cat breeds from images.  
 It combines **YOLOv8** (for object detection) and **MobileNetV2 Custom Head** (for breed classification), trained on the **Oxford-IIIT Pet Dataset**.
