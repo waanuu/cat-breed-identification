@@ -10,7 +10,7 @@ It combines **YOLOv8** (for object detection) and **MobileNetV2 Custom Head** (f
 - **Breed classification** with MobileNetV2 Custom Head (12 cat breeds).  
 - **Data preprocessing**: filtering, resizing, normalization, augmentation (flip, rotation, zoom, shear).  
 - **Lightweight and fast** — optimized for mobile or web deployment.  
-- **Interactive UI** built with Streamlit for real-time prediction.
+
 
 ---
 
